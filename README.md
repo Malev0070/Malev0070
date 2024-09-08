@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Costa de Fontes</h1>
+<h1 align="center">Hi 👋, I'm Lucas Fontes</h1>
 <h3 align="center">Hello, I am a statistics student at UFS, here I post my data analysis projects using python.</h3>
 
 - 📫 How to reach me **lucasfontesxdd@gmail.com**
